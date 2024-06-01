@@ -1,4 +1,4 @@
-![Dashboard Back](images/Pi-dashboard/PhotoPhotos2377.jpg)
+![Dashboard Back](./images/Pi-dashboard/dash-back.jpg)
 
 ## Raspberry Pi 7" Touchscreen Setup
 
