@@ -54,6 +54,8 @@ The keyboard can now be accessed from the menu or by running `matchbox-keyboard`
 
 ### 3D Printed Cases
 
+![Raspberry Pi 7 Inch Touchscreen display case](./images/Pi-dashboard/3d-printed-case.gif)
+
 For a sleek enclosure, there are several 3D printed cases available for this touchscreen:
 
 - [Raspberry Pi 7 Inch Touchscreen display case](https://www.printables.com/model/18153-raspberry-pi-7-inch-touchscreen-display-case) on Printables[9] 
