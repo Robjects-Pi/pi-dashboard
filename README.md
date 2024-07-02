@@ -1,18 +1,22 @@
 ![Dashboard Back](./images/Pi-dashboard/dash-back.jpg)
 
+<!-- TODO: Add an image showing the Raspberry Pi 7" Touchscreen assembled with a Raspberry Pi
+![Assembled Raspberry Pi with Touchscreen](path/to/assembled-touchscreen.jpg)
+-->
+
 ## Raspberry Pi 7" Touchscreen Setup
 
 This guide covers how to assemble and set up the official Raspberry Pi 7" touchscreen display. It includes references to 3D printed cases and mounts that can be used with this touchscreen.
 
 ### What You'll Need
-- Raspberry Pi (any model works with the touchscreen)
-- Portable Display 7" Touchscreen Monitor (1024x600@60Hz)
-- Official Raspberry Pi 7" Touchscreen Display
+- [Raspberry Pi]() (any model works with the touchscreen)
+- [Portable Display 7" Touchscreen Monitor](https://) (1024x600@60Hz)
+- [Official Raspberry Pi 7" Touchscreen Display](https://)
 - HDMI cable (choose one)
-  -  Standard HDMI cable (can be used with a micro/mini HDMI adapter if needed)
-  - HDMI ribbon cable (included with the touchscreen)
-- Raspberry Pi power supply (compatible with your Raspberry Pi model)
-- Micro USB cable for the touchscreen (can be powered from the RPi or a separate power source)
+  -  [Standard HDMI cable](https://) (can be used with a micro/mini HDMI adapter if needed)
+  - [HDMI ribbon cable](https://) (included with the touchscreen)
+- [Raspberry Pi power supply](https://) (compatible with your Raspberry Pi model)
+- [Micro USB cable for the touchscreen](https://) (can be powered from the RPi or a separate power source)
 
 ### Setting Up the Touchscreen
 
@@ -20,6 +24,13 @@ Setting up the touchscreen involves connecting the display to the Raspberry Pi
 is a straightforward process.
 
 Here's how to do it:
+
+<!-- TODO: Add a GIF demonstrating the step-by-step assembly process
+![Touchscreen Assembly Process](path/to/assembly-process.gif)
+-->
+
+
+
 1. **Connect the HDMI Cable or Ribbon Cable**
    - Plug the HDMI cable into the HDMI port on the Raspberry Pi
    - Connect the other end of the HDMI cable to the HDMI port on the touchscreen
@@ -52,7 +63,16 @@ sudo reboot
 
 The keyboard can now be accessed from the menu or by running `matchbox-keyboard` in the terminal.
 
+<!-- TODO: Add a GIF showing the touchscreen keyboard in use
+![Touchscreen Keyboard Demo](path/to/keyboard-demo.gif)
+-->
+
+
 ### 3D Printed Cases
+
+<!-- TODO: Add an image showcasing various 3D printed mounts for the Raspberry Pi Touchscreen
+![3D Printed Mounts for Raspberry Pi Touchscreen](path/to/3d-printed-mounts.jpg)
+-->
 
 ![Raspberry Pi 7 Inch Touchscreen display case](./images/Pi-dashboard/3d-printed-case.gif)
 
