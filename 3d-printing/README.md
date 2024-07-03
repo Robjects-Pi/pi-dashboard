@@ -1,4 +1,4 @@
-# 3D Printing
+# 3D Printing Raspberry Pi Touchscreen Display Enclosure
 
 ## What You'll Need
 - Raspberry Pi (any model works with the touchscreen)
