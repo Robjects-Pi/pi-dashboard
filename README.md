@@ -1,8 +1,11 @@
+
 ![Dashboard Back](./images/Pi-dashboard/dash-back.jpg)
 
 <!-- TODO: Add an image showing the Raspberry Pi 7" Touchscreen assembled with a Raspberry Pi
 ![Assembled Raspberry Pi with Touchscreen](path/to/assembled-touchscreen.jpg)
 -->
+
+![Dashboard Front](./images/Pi-dashboard/pi-dash-front.jpeg)
 
 ## Raspberry Pi 7" Touchscreen Setup
 
@@ -56,10 +59,12 @@ After setting up your Raspberry Pi with the touchscreen, you may want to install
 
 To use the touchscreen fully and avoid having to use an external keyboard for use, install a keyboard:
 
+---
 ```bash
 sudo apt-get install matchbox-keyboard
 sudo reboot
 ```
+---
 
 The keyboard can now be accessed from the menu or by running `matchbox-keyboard` in the terminal.
 
@@ -85,7 +90,6 @@ These cases have a slim design while allowing access to all ports.
 
 ### 3D Printed Mounts
 
-<!--- TODO:Add more 3D printed mounts for the touchscreen here 
 To mount the touchscreen on a wall or connect it to a GoPro-style mount, you can 3D print one of these mounts:
 
 - [Wall Mount Touch Screen Raspberry Pi](https://www.stlfinder.com/3dmodels/wall-mount-touch-screen-raspberry-pi/) on STLFinder[11]
