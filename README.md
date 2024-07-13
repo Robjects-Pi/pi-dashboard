@@ -113,8 +113,8 @@ These cases have a slim design while allowing access to all ports.
 
 To mount the touchscreen on a wall or connect it to a GoPro-style mount, you can 3D print one of these mounts:
 
-- [Wall Mount Touch Screen Raspberry Pi](https://www.stlfinder.com/3dmodels/wall-mount-touch-screen-raspberry-pi/) on STLFinder[11]
-- [Raspberry Pi 3 Touchscreen Wall Mount](https://www.etsy.com/listing/1045534495/raspberry-pi-3-touchscreen-wall-mount) on Etsy[12]
+- [Wall Mount Touch Screen Raspberry Pi](https://www.stlfinder.com/3dmodels/wall-mount-touch-screen-raspberry-pi/) on STLFinder
+- [Raspberry Pi 3 Touchscreen Wall Mount](https://www.etsy.com/listing/1045534495/raspberry-pi-3-touchscreen-wall-mount) on Etsy
 
 These mounts have pre-holed slots that fit all Raspberry Pi models, allowing you to easily wall-mount the touchscreen or connect it to a GoPro-style mount.
 
