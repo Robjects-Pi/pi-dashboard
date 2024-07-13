@@ -1,11 +1,9 @@
 
-![Dashboard Back](./images/Pi-dashboard/dash-back.jpg)
+![Raspberry Pi 7" Touchscreen Display](./images/Pi-dashboard/pi-dash-all-together.jpeg)
 
-<!-- TODO: Add an image showing the Raspberry Pi 7" Touchscreen assembled with a Raspberry Pi
-![Assembled Raspberry Pi with Touchscreen](path/to/assembled-touchscreen.jpg)
--->
 
-![Dashboard Front](./images/Pi-dashboard/pi-dash-front.jpeg)
+
+
 
 ## Raspberry Pi 7" Touchscreen Setup
 
@@ -13,15 +11,38 @@ This guide covers how to assemble and set up the official Raspberry Pi 7" touchs
 
 ### What You'll Need
 - [Raspberry Pi]() (any model works with the touchscreen)
+   ![Raspberry Pi 4](./images/Pi-dashboard/electronics/pi-dash-rpi4-front-view.jpeg)
 - [Portable Display 7" Touchscreen Monitor](https://) (1024x600@60Hz)
-- [Official Raspberry Pi 7" Touchscreen Display](https://)
-- HDMI cable (choose one)
-  -  [Standard HDMI cable](https://) (can be used with a micro/mini HDMI adapter if needed)
-  - [HDMI ribbon cable](https://) (included with the touchscreen)
-- [Raspberry Pi power supply](https://) (compatible with your Raspberry Pi model)
-- [Micro USB cable for the touchscreen](https://) (can be powered from the RPi or a separate power source)
+   ![7" Touchscreen Display](./images/Pi-dashboard/electronics/pi-dash-front-no-cover.jpeg)
+
+   ![7" Touchscreen Display](./images/Pi-dashboard/electronics/pi-dash-back-no-cover.jpeg)
+
+ 
+  - [HDMI ribbon cable]()
+    <!-- TODO: create image cropped from all supplies
+   ![Raspberry Pi Power Supply](./images/Pi-dashboard/electronics/pi-dash-power-supply.jpeg)
+  -->
+- [Raspberry Pi power supply]()
+<!-- TODO: create image cropped from all supplies
+   ![Raspberry Pi Power Supply]()
+  -->
+- [Micro USB cable for the touchscreen]()
+- [Micro SD card with Raspberry Pi OS](https://)
+  <!-- TODO: create image cropped from all supplies
+   ![Raspberry Pi Power Supply]()
+  -->
+- [Keyboard and mouse](https://) (optional)
+<!-- TODO: create image cropped from all supplies
+   ![Raspberry Pi Power Supply]()
+  -->
+- [3D printed case or mount](https://) (optional)
+
+
 
 ### Setting Up the Touchscreen
+----------------
+
+![Dashboard Front](./images/Pi-dashboard/pi-dash-back-with-3d-front-print.jpeg)
 
 Setting up the touchscreen involves connecting the display to the Raspberry Pi 
 is a straightforward process.
