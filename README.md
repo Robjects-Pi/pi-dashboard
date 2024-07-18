@@ -120,7 +120,6 @@ These mounts have pre-holed slots that fit all Raspberry Pi models, allowing you
 
 With these instructions and 3D printed accessories, you'll have a great touchscreen setup for your Raspberry Pi projects!
 --->
-## References
 
 
 ### Extra Resources
