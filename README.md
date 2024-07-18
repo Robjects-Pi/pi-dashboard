@@ -119,7 +119,5 @@ To mount the touchscreen on a wall or connect it to a GoPro-style mount, you can
 These mounts have pre-holed slots that fit all Raspberry Pi models, allowing you to easily wall-mount the touchscreen or connect it to a GoPro-style mount.
 
 With these instructions and 3D printed accessories, you'll have a great touchscreen setup for your Raspberry Pi projects!
---->
-
 
 ### Extra Resources
