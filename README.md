@@ -121,3 +121,7 @@ These mounts have pre-holed slots that fit all Raspberry Pi models, allowing you
 With these instructions and 3D printed accessories, you'll have a great touchscreen setup for your Raspberry Pi projects!
 
 ### Extra Resources
+
+- [Raspberry Pi 7" Touchscreen Display](https://www.raspberrypi.org/products/raspberry-pi-touch-display/)
+- [Raspberry Pi 7" Touchscreen Display Case](https://www.thingiverse.com/thing:1585924)
+- [Raspberry Pi 7" Touchscreen Display Wall Mount](https://www.stlfinder.com/3dmodels/wall-mount-touch-screen-raspberry-pi/)
