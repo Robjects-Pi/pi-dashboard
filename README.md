@@ -20,7 +20,7 @@ This guide covers how to assemble and set up the official Raspberry Pi 7" touchs
  
   - [HDMI ribbon cable]()
     <!-- TODO: create image cropped from all supplies
-   ![Raspberry Pi Power Supply](./images/Pi-dashboard/electronics/pi-dash-power-supply.jpeg)
+   ![Raspberry Pi Power Supply](./images/Pi-dashboard/electronics/pi-dash-hdmi-ribbon-cable.jpeg)
   -->
 - [Raspberry Pi power supply]()
 <!-- TODO: create image cropped from all supplies
