@@ -40,10 +40,13 @@ This guide covers how to assemble and set up the official Raspberry Pi 7" touchs
 
 
 ### Setting Up the Touchscreen
-----------------
+=![Dashboard Back](./images/Pi-dashboard/pi-dash-back-with-3d-front-print.jpeg)
 
 ![Dashboard Front](./images/Pi-dashboard/pi-dash-back-with-3d-front-print.jpeg)
 
+_______________
+
+The Raspberry Pi 7" touchscreen display is a great addition to any Raspberry Pi project. It's easy to set up and provides a high-resolution display for your projects.
 Setting up the touchscreen involves connecting the display to the Raspberry Pi 
 is a straightforward process.
 
